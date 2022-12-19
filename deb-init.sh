@@ -12,6 +12,13 @@ sudo passwd root
 sudo apt-get update
 sudo apt-get -y upgrade
 
+# Download Uncomplicated FireWall
+sudo apt-get ufw
+
+# 
+sudo ufw logging on
+sudo ufw enable
+sudo ufw status
 
 sudo apt-get -y autoremove
 sudo apt-get autoclean
