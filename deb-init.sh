@@ -15,10 +15,16 @@ sudo apt-get -y upgrade
 # Download Uncomplicated FireWall
 sudo apt-get ufw
 
-# 
+# Manually set default UFW configuration
+sudo ufw reset
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+
+# Configure logging, enable UFW, and check status
 sudo ufw logging on
 sudo ufw enable
 sudo ufw status
 
+# Cleanup script
 sudo apt-get -y autoremove
 sudo apt-get autoclean
