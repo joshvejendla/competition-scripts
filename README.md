@@ -1,2 +1,6 @@
 # competition-scripts
-Scripts that I write for my cybersecurity competitions
+Scripts written for SWIFT cybersecurity competitions
+
+Contributed by:
+
+Prabhath Joshua Vejendla
