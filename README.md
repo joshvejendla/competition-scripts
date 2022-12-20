@@ -5,8 +5,8 @@ THE SCRIPTS IN THIS REPO ARE WRITTEN IN THE CONTEXT OF CYBERSECURITY COMPETITION
 
 THEY ARE NOT WRITTEN FOR PUBLIC AND PRODUCTION ENVIRONMENTS 
 
-Scripts written for SWIFT cybersecurity competitions
+## Scripts written for SWIFT cybersecurity competitions
 
-Contributed by:
+### Contributed by:
 
 Prabhath Joshua Vejendla
