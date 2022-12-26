@@ -16,7 +16,7 @@ sudo apt-get -y upgrade
 sudo apt-get ufw
 
 # Manually set default UFW configuration
-sudo ufw reset
+sudo ufw --force reset
 sudo ufw default deny incoming
 sudo ufw default allow outgoing
 
