@@ -9,15 +9,15 @@
 ### Nano - a terminal based text editor
 
 Install to Debian/Ubuntu:
-```
+``` bash
 sudo apt install nano
 ```
 Install to RHEL:
-```
+``` bash
 sudo yum install nano
 ```
 Check version:
-```
+``` bash
 nano --version
 ```
 
