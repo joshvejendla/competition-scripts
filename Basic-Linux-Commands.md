@@ -42,10 +42,30 @@ Disable
 
 ### Systemctl - Control the systemd system and service manager
 
+Manage services like https, SSH, and SQL
+
 Commands:
 ``` bash
 sudo systemctl start
 sudo systemctl stop
 sudo systemctl restart
 sudo systemctl reload
+```
+
+### Basic Commands
+```
+cd // Change Directory
+ls // LiSt contents
+mv // MoVe a file or application
+cp // CoPy a file or application
+
+cat // conCATenate (or 
+head // prints the first n lines of a file, default n = 10
+tail // prints the last n lines of a file, default n = 10
+chmod // CHange MODe, changes the permissions of a file
+
+ssh // Secure SHell
+sudo // Super User DO
+ping 
+nmap // Network MAPper
 ```
