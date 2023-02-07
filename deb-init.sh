@@ -1,6 +1,6 @@
 # A script for Debian machines to initialize and secure services
-# Written by Prabhath Joshua Vejendla 
-# 17 December 2022
+# Written by Prabhath Joshua Vejendla and Salvador Serrano 
+# Last edited 07 FEB 2023
 
 #!/bin/bash
 
