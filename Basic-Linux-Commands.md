@@ -28,7 +28,7 @@ nano --version
 Commands:
 ```
 Allow
-Deny
+Deny // IP Addresses and Ports
 Reject
 Limit
 Status
