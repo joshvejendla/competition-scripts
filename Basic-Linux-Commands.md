@@ -12,3 +12,12 @@ Install to Debian/Ubuntu:
 ```
 sudo apt install nano
 ```
+Install to RHEL:
+```
+sudo yum install nano
+```
+Check version:
+```
+nano --version
+```
+
