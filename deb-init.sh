@@ -1,7 +1,9 @@
 # A script for Debian machines to initialize and secure services
+# 
 # Contributed by: 
 #    Prabhath Joshua Vejendla
 #    Salvador Serrano 
+#
 # Last edited 07 FEB 2023
 
 #!/bin/bash
