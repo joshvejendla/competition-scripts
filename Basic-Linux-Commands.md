@@ -4,9 +4,9 @@
 4. /usr 
 5. /var log files, temporary files, databases, websites
 
-### Text Editors
+## Text Editors
 
-Nano - a terminal based text editor
+### Nano - a terminal based text editor
 
 Install to Debian/Ubuntu:
 ```
