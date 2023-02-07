@@ -21,3 +21,19 @@ Check version:
 nano --version
 ```
 
+## Firewall
+
+### UFW (Uncomplicated Firewall)
+
+Commands:
+```
+Allow
+Deny
+Reject
+Limit
+Status
+Show
+Reset
+Reload
+Disable
+```
