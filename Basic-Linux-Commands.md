@@ -37,3 +37,15 @@ Reset
 Reload
 Disable
 ```
+
+## Other
+
+### Systemctl - Control the systemd system and service manager
+
+Commands:
+``` bash
+sudo systemctl start
+sudo systemctl stop
+sudo systemctl restart
+sudo systemctl reload
+```
