@@ -6,7 +6,7 @@ The opening line of a bash script:
 #!/bin/bash
 ```
 
-If/else:
+If/else in bash:
 ```bash
 if []; then
   echo ""
