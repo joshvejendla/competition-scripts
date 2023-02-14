@@ -13,7 +13,7 @@ sudo passwd root
 
 # Gets information on newest versions of packages and dependencies, 
 # then upgrades the packages to their latest versions
-sudo apt-get update
+sudo apt-get -y update
 sudo apt-get -y upgrade
 
 # Download Uncomplicated FireWall
