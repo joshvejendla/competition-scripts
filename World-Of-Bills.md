@@ -1,6 +1,7 @@
 My notes from world of bills
 
-1. Check version of CentOS
+1. Check version of CentOS:
+
   `cat /etc/centos-release`
 
 3. How to assign an IP address on CentOS
