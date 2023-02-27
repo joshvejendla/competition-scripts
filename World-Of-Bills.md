@@ -41,4 +41,14 @@ vim /etc/sysconfig/network-scripts/ifcfg-eth0
   passwd [username]
   usermod -a -G wheel [username]
   ```
-  pt 2: Disable (don't delete) the Bill account
+  pt 2: Disable (don't delete) an account on CentOS
+  + Lock the user
+  ```
+  usermod -L [username]
+  ```
+  + Disable the user
+  ```
+  vim /etc/passwd
+  ```
+    Change login shell [/bin/bash] to [/sbin/nologin]
+  
