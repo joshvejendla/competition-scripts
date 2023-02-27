@@ -12,11 +12,11 @@ Assign static IP: https://www.linkedin.com/pulse/easy-guide-assign-static-ip-add
 
 IP addr: 172.19.170.188
 Subnet Mask: 255.255.0.0
-`sudo su
- cd /etc/
- cd sysconfig
- cd network-scripts
- vim ifcfg-eth0`
+  `sudo su
+   cd /etc/
+   cd sysconfig
+   cd network-scripts
+   vim ifcfg-eth0`
  
  or
  
