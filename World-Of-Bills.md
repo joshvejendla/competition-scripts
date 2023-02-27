@@ -31,7 +31,7 @@ vim ifcfg-eth0
 or
 ```
 sudo su
-vim /etc/sysconfig/network-scripts/ifcfg-eth0`
+vim /etc/sysconfig/network-scripts/ifcfg-eth0
 ```
 
 2. 
