@@ -12,8 +12,8 @@ https://www.linkedin.com/pulse/easy-guide-assign-static-ip-address-centos-rhel-7
 2. 
   pt 1: Create a privileged account for yourself
   
-    `adduser [username]`
-    `passwd [username]`
-    `usermod -a -G wheel [username]` 
+    adduser [username]
+    passwd [username]
+    usermod -a -G wheel [username]
   
   pt 2: Disable (don't delete) the Bill account
