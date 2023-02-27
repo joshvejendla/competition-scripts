@@ -10,9 +10,8 @@ Learn Vim: https://danielmiessler.com/study/vim/
 
 Assign static IP: https://www.linkedin.com/pulse/easy-guide-assign-static-ip-address-centos-rhel-7-8-linux-techlab/
 
-IP addr: 172.19.170.188
-
-Subnet Mask: 255.255.0.0
+> IP addr: 172.19.170.188
+> Subnet Mask: 255.255.0.0
 
 ```
 sudo su
