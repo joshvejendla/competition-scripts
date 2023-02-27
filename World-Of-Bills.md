@@ -14,22 +14,25 @@ Assign static IP: https://www.linkedin.com/pulse/easy-guide-assign-static-ip-add
 
 > Subnet Mask: 255.255.0.0
 
+Change into root
 ```
-# Change into root
 sudo su
-# Change into systems internals directory
+```
+Change into systems internals directory for network configuration
+```
 cd /etc/
 cd sysconfig
 cd network-scripts
-# Configure the interface for ethernet0
+```
+Configure the interface for ethernet0
+```
 vim ifcfg-eth0
 ``` 
- or
- 
- ```
- sudo su
- vim /etc/sysconfig/network-scripts/ifcfg-eth0`
- ```
+or
+```
+sudo su
+vim /etc/sysconfig/network-scripts/ifcfg-eth0`
+```
 
 2. 
   pt 1: Create a privileged account for yourself
