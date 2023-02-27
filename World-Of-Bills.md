@@ -50,5 +50,5 @@ vim /etc/sysconfig/network-scripts/ifcfg-eth0
   ```
   vim /etc/passwd
   ```
-    Change login shell [/bin/bash] to [/sbin/nologin]
+   Change login shell [/bin/bash] to [/sbin/nologin]
   
