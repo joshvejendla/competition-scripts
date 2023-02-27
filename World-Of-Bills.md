@@ -15,10 +15,13 @@ Assign static IP: https://www.linkedin.com/pulse/easy-guide-assign-static-ip-add
 > Subnet Mask: 255.255.0.0
 
 ```
+# Change into root
 sudo su
+# Change into systems internals directory
 cd /etc/
 cd sysconfig
 cd network-scripts
+# Configure the interface for ethernet0
 vim ifcfg-eth0
 ``` 
  or
