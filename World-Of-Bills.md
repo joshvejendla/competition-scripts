@@ -19,7 +19,7 @@ sudo su
 cd /etc/
 cd sysconfig
 cd network-scripts
-vim ifcfg-eth0`
+vim ifcfg-eth0
 ``` 
  or
  
