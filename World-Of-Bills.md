@@ -26,6 +26,7 @@ cd network-scripts
 ```
 Configure the interface for ethernet0
 ```
+sudo su
 vim ifcfg-eth0
 ``` 
 or
