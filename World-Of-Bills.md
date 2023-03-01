@@ -46,6 +46,10 @@ vim /etc/sysconfig/network-scripts/ifcfg-eth0
   ```
   usermod -L [username]
   ```
+  + Unlock the user
+  ```
+  usermod -U [username]
+  ```
   + Disable the user
   ```
   vim /etc/passwd
