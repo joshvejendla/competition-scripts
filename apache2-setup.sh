@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Switch into root user
-Sudo su
+sudo su
 
 # Download Apache 2
 apt-get install apache2 apacheutils
